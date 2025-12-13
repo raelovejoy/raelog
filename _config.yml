@@ -5,7 +5,7 @@ markdown: kramdown
 baseurl: ""
 url: "https://raelog.net"
 
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 
 exclude:
   - README.md
