@@ -7,10 +7,6 @@ description: "What Raelog is, what lives here, and how it works."
 
 <span class="dim">raelog://about</span>
 
-<header class="header">
-  <p class="sub">Notes to revisit.</p>
-</header>
-
 <p>
   <strong>Raelog</strong> is a personal field log maintained by
   <a href="https://raelovejoy.com">Rae Lovejoy</a>.
