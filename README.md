@@ -2,7 +2,6 @@
 
 A personal logbook.
 
-Notes, observations, field entries.
-Unfinished thinking, left in place.
+Notes, observations, field entries, unfinished thinking.
 
 This repository also hosts the Raelog site.
