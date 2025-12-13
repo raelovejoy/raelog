@@ -1,0 +1,28 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+
+<span class="dim">raelog://archive</span>
+
+<header class="header">
+  <h1>Archive</h1>
+  <p class="sub">All entries, grouped by year.</p>
+</header>
+
+<section class="list">
+  {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in postsByYear %}
+    <h2><strong>{{ year.name }}</strong></h2>
+    <ul>
+      {% for post in year.items %}
+        <li>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</section>

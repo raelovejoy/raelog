@@ -1,0 +1,70 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+
+<span class="dim">raelog://search</span>
+
+<header class="header">
+  <h1>Search</h1>
+  <p class="sub">Local search. No external services.</p>
+</header>
+
+<p>
+  <input
+    id="q"
+    type="search"
+    placeholder="search raelog…"
+    style="
+      width:100%;
+      padding:0.6rem;
+      background:#101010;
+      color:#e6e6e6;
+      border:1px solid rgba(255,255,255,0.18);
+      border-radius:6px;
+    "
+  />
+</p>
+
+<section class="list">
+  <ul id="results"></ul>
+</section>
+
+<script src="{{ '/assets/js/lunr.min.js' | relative_url }}"></script>
+<script>
+(async () => {
+  const res = await fetch("{{ '/search.json' | relative_url }}");
+  const docs = await res.json();
+
+  const idx = lunr(function () {
+    this.ref("url");
+    this.field("title");
+    this.field("content");
+    this.field("date");
+    docs.forEach(d => this.add(d));
+  });
+
+  const q = document.getElementById("q");
+  const out = document.getElementById("results");
+
+  function render(items) {
+    out.innerHTML = "";
+    items.slice(0, 30).forEach(item => {
+      const d = docs.find(x => x.url === item.ref);
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="${d.url}">${d.date} — ${d.title}</a>`;
+      out.appendChild(li);
+    });
+  }
+
+  q.addEventListener("input", () => {
+    const query = q.value.trim();
+    if (!query) {
+      out.innerHTML = "";
+      return;
+    }
+    render(idx.search(query));
+  });
+})();
+</script>
