@@ -17,6 +17,13 @@
 
 <body>
   <div class="page">
+    <div class="nav">
+  <a href="{{ '/' | relative_url }}">home</a>
+  <a href="{{ '/about/' | relative_url }}">about</a>
+  <a href="{{ '/archive/' | relative_url }}">archive</a>
+  <a href="{{ '/search/' | relative_url }}">search</a>
+  <a href="{{ '/feed.xml' | relative_url }}">rss</a>
+</div>
     {{ content }}
   </div>
 </body>

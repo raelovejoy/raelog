@@ -1,4 +1,5 @@
 title: Raelog
+description: "Field notes. Observations. Markers."
 markdown: kramdown
 
 baseurl: "/raelog"
