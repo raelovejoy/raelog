@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<span class="dim">raelog/{{ page.date | date: "%Y-%m-%d" }}</span>
-
-<div class="nav">
-  <a href="{{ '/' | relative_url }}">home</a>
-  <a href="{{ '/feed.xml' | relative_url }}" class="dim" style="display:none;">rss</a>
-</div>
+<span class="dim">
+  raelog://posts/{{ page.date | date: "%Y-%m-%d" }}/{{ page.slug }}
+</span>
 
 <header>
   <h1>{{ page.title }}</h1>
