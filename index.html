@@ -3,6 +3,12 @@ layout: default
 title: Raelog
 ---
 
+<span class="dim">raelog://home</span>
+
+<div class="nav">
+  <a href="{{ '/' | relative_url }}">home</a>
+</div>
+
 <header class="header">
   <h1>Raelog</h1>
   <p class="sub">Field notes. Observations. Markers.</p>
@@ -12,7 +18,9 @@ title: Raelog
   <ul>
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">
+          raelog://posts/{{ post.date | date: "%Y-%m-%d" }}/{{ post.slug }}
+        </a>
       </li>
     {% endfor %}
   </ul>
