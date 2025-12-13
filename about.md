@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: 
 permalink: /about/
 description: "What Raelog is, what lives here, and how it works."
 ---
