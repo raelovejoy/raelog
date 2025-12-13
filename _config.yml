@@ -1,6 +1,9 @@
 title: Raelog
 description: "Field notes. Observations. Markers."
 markdown: kramdown
+timezone: America/Los_Angeles
+future: true
+
 
 baseurl: ""
 url: "https://raelog.net"
