@@ -1,0 +1,11 @@
+title: Raelog
+markdown: kramdown
+
+# Keep URLs simple:
+permalink: /:categories/:year-:month-:day-:title/
+
+# Optional: if you want posts at /posts/...:
+# permalink: /posts/:year-:month-:day-:title/
+
+exclude:
+  - README.md
