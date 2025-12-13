@@ -4,7 +4,15 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>{% if page.title %}{{ page.title }} — {% endif %}Raelog</title>
+  <title>
+  {% if page.url == "/" %}
+    raelog://home
+  {% elsif page.layout == "post" %}
+    raelog://posts/{{ page.date | date: "%Y-%m-%d" }}/{{ page.slug }}
+  {% else %}
+    raelog://{{ page.title | downcase | replace: " ", "-" }}
+  {% endif %}
+</title>
 
   {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
