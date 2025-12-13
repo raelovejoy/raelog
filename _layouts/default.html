@@ -8,7 +8,7 @@
   {% if page.url == "/" %}
     raelog://home
   {% elsif page.layout == "post" %}
-    raelog://posts/{{ page.date | date: "%Y-%m-%d" }}/{{ page.slug }}
+    raelog://{{ page.slug }}
   {% else %}
     raelog://{{ page.title | downcase | replace: " ", "-" }}
   {% endif %}

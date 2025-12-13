@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Raelog
+title:
 ---
 
 <span class="dim">raelog://home</span>
@@ -15,7 +15,7 @@ title: Raelog
     {% for post in site.posts %}
       <li>
         <a href="{{ post.url | relative_url }}">
-          raelog://posts/{{ post.date | date: "%Y-%m-%d" }}/{{ post.slug }}
+          raelog://{{ post.slug }}
         </a>
       </li>
     {% endfor %}
