@@ -2,8 +2,8 @@ title: Raelog
 description: "Field notes. Observations. Markers."
 markdown: kramdown
 
-baseurl: "/raelog"
-url: "https://raelovejoy.github.io"
+baseurl: ""
+url: "https://raelog.net"
 
 permalink: /:year-:month-:day-:title/
 
