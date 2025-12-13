@@ -8,28 +8,36 @@ description: "What Raelog is, what lives here, and how it works."
 <span class="dim">raelog://about</span>
 
 <header class="header">
-  <h1>About</h1>
-  <p class="sub">A logbook. A trace. A place to leave markers.</p>
+  <p class="sub">Notes to revisit.</p>
 </header>
 
 <p>
-  <strong>Raelog</strong> is where I put observations and field notes—unfinished thinking that I want to be able to find again.
+  <strong>Raelog</strong> is a personal field log maintained by
+  <a href="https://raelovejoy.com">Rae Lovejoy</a>.
+</p>
+
+<h2><strong>What this is</strong></h2>
+<p>
+  It isn't a 'blog' in the "normal" sense... more like a place to write things down
+  so they don’t disappear—observations, half-formed ideas, project notes,
+  questions, and patterns I'm noticing over time. A virtual field log.
 </p>
 
 <h2><strong>What you’ll find</strong></h2>
 <ul>
-  <li>notes on technology, power, systems, and culture</li>
-  <li>project logs and “what I’m building / learning” trails</li>
-  <li>writing fragments that might later become something else</li>
-  <li>occasional documentation of experiments, tools, and workflows</li>
+  <li>notes on technology, systems, power, and culture</li>
+  <li>project logs and 'what I'm building / learning' trails</li>
+  <li>writing fragments that might later turn into something else</li>
+  <li>documentation of tools, experiments, or workflows when it's useful</li>
 </ul>
 
 <h2><strong>How this works</strong></h2>
 <ul>
   <li>entries are chronological</li>
+  <li>posts are written as they are, not polished later</li>
   <li>conclusions are optional</li>
   <li>contradictions are allowed</li>
-  <li>this is primarily for future-me, but it’s public</li>
+  <li>this is mostly for future-me, and maybe some people I know, but it's public</li>
 </ul>
 
 <p class="dim">
