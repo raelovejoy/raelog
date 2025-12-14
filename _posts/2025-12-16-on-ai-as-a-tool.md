@@ -4,92 +4,38 @@ title: "On AI as a tool"
 summary: AI as 'cognitive scaffolding,' not replacement
 ---
 
-AI is a loaded topic right now, and for good reason. It raises real questions about labor, authorship, bias, power, and responsibility. Because I use AI in my writing, I want to be clear about how and why—without hype, and without pretending the concerns do not exist.
+AI is a loaded topic right now. I’m aware of that. I still use it, and because I write a lot, I don’t want that to be vague or implied or quietly hidden in the background.
 
-This is not a defense of AI. It is an explanation of my relationship to it.
+This isn’t a defense of AI, but rather me being explicit about how it fits into my process.
 
-## What AI is for me
+For me, AI is a tool. Not an author, not an authority, not a friend, not a stand-in for judgment. More like a whiteboard that talks back, or a place to dump too many thoughts at once and see what survives.
 
-I use AI as a cognitive tool.
+I mostly use it to clarify things that already exist in my head but haven’t landed cleanly yet. To test an idea from a few angles. To reorganize notes that have grown faster than I can hold them. To make writing clearer, more accessible, and less tangled than it would otherwise be.
 
-More specifically, I use it to:
-- Clarify half-formed thoughts
-- Stress-test ideas and arguments
-- Organize long notes, logs, or drafts
-- Surface counterpoints I might miss
-- Improve clarity, accessibility, or structure
+Clarity is the point. I write constantly, and the goal isn’t speed or volume—it’s saying what I actually mean.
 
-I do not treat it as an authority, an author, a friend, or a decision-maker. It is closer to a whiteboard, a notebook, or a very patient interlocutor than a replacement for thinking.
+That’s also where accessibility comes in.
 
-The final responsibility for what I write—claims, tone, ethics, and intent—is always mine.
+I have ADHD, and executive dysfunction is a real constraint in how I work. Not in a dramatic way—just in the accumulation of friction. Starting is hard. Holding context is hard. Knowing where to begin when everything feels equally urgent is hard.
 
-## Accessibility, ADHD, and executive function
+AI helps at those points. Not by thinking for me, but by lowering the threshold where my brain tends to stall. It helps me externalize thoughts when they’re all competing for attention at once. It helps me regain momentum without burning myself out trying to brute-force my way through overwhelm.
 
-This part matters enough to say explicitly.
+I don’t really get writer’s block. If anything, I have the opposite problem—too many words pressing forward at the same time. This is one way I create enough structure to work with that instead of against it.
 
-AI has become an essential accessibility tool for me in navigating ADHD-related executive dysfunction and overwhelm. Not because it thinks for me, but because it reduces friction at the points where my brain reliably stalls.
+I’m also increasingly interested in local AI and self-hosted systems, longer term. Partly for practical reasons—privacy, reliability, understanding what I’m actually relying on—and partly because I’m wary of how centralized and opaque a lot of this infrastructure has become.
 
-It helps with:
-- Starting when initiation feels impossible
-- Breaking overwhelming tasks into workable steps
-- Holding context when my working memory drops it
-- Externalizing (not outsourcing) thoughts when everything feels tangled
-- Regaining momentum without burning out
+I’d rather treat AI as software I work with than a service I defer to. Exploring local models is a way of learning where the limits actually are, and what tradeoffs I’m making, instead of abstracting all of that away behind an API.
 
-In this sense, it functions as scaffolding rather than automation. Similar to calendars, reminders, spellcheck, or other assistive tools, it helps me stay engaged with my own thinking instead of getting stuck before it can take shape. Not that I have a problem with writer's block. On the contrary, the only 'blockage' I have is the overwhelm of words I press into my keyboard.
+None of that changes the basic boundaries.
 
-This is not about productivity for its own sake, but being able to participate, reflect, and create without being derailed by cognitive overload.
+AI doesn’t replace my judgment. It doesn’t get credit for authorship. It doesn’t excuse mistakes or harm. Anything that ends up here is here because I chose it and take responsibility for it.
 
-## Local AI and self-hosted systems
+There are plenty of valid criticisms of AI—about labor, bias, energy use, power, authorship, all of it. Acknowledging those concerns doesn’t require pretending the tools don’t exist, and using the tools doesn’t require pretending the concerns aren’t real. For me, the only workable approach is limited, conscious use paired with transparency.
 
-I am also increasingly interested in local AI and locally hosted systems over the long term.
+That’s why I’m explicit about this.
 
-Part of this is practical—privacy, reliability, and the ability to understand and control the tools I rely on. Part of it is philosophical. I am wary of over-centralized infrastructure, opaque systems, and dependencies that quietly shape behavior without consent.
+Tools shape thinking. They always have. Language does. Writing does. Software does. I’d rather make that visible than pretend it isn’t happening.
 
-Exploring local models and self-hosted setups is a way of:
-- Reducing reliance on centralized platforms
-- Keeping sensitive data closer to where it is created
-- Better understanding the constraints and tradeoffs of these systems
-- Treating AI as software I work with, not a service I defer to
+If something I write is unclear, wrong, or harmful, that’s on me. The presence of AI doesn’t change that.
 
-This interest does not change the boundaries described elsewhere in this post. Whether a system is local or remote, the same principles apply: I remain responsible for the output, the intent, and the consequences.
-
-This is a direction I am actively learning toward, not a claim of having solved it.
-
-## What AI is not for me
-
-Some boundaries matter, especially now.
-
-- AI does not replace thoughts or judgment.
-- AI does not get credit for authorship.
-- AI does not excuse errors or harm.
-- AI output is edited heavily, reshaped, or discarded.
-
-If something appears here, it is because I chose it, stood by it, and took responsibility for it.
-
-## On the controversy
-
-Many criticisms of AI are valid.
-
-There are serious concerns about:
-- Exploitation of labor and creative work
-- Bias embedded in training data
-- Environmental and energy costs
-- Centralization of power and infrastructure
-- The erosion of trust and authorship norms
-
-Acknowledging these issues does not require pretending AI does not exist, nor does using AI require ignoring them. My approach is conscious, limited use paired with transparency—not blind adoption or evangelism.
-
-## Why I am transparent about this
-
-Tools shape thinking. That has always been true—language, writing, printing, search engines, and software all do this. Pretending otherwise does not protect integrity; it obscures it.
-
-I disclose AI use because transparency matters more than purity tests. Readers can judge the work on its merits, with full context.
-
-If a piece is unclear, wrong, or harmful, the responsibility is still mine.
-
-## A closing note
-
-I am not interested in outsourcing thought, creativity, or responsibility. I am interested in tools that help me think more clearly, write more accessibly, and engage with my own ideas without unnecessary barriers.
-
-This is how I currently use AI. That may change. If it does, I will say so.
+This is how I’m using it right now. That may change. If it does, I’ll say so.
