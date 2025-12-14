@@ -28,13 +28,11 @@ I’d rather treat AI as software I work with than a service I defer to. Explori
 
 None of that changes the basic boundaries.
 
-AI doesn’t replace my judgment. It doesn’t get credit for authorship. It doesn’t excuse mistakes or harm. Anything that ends up here is here because I chose it and take responsibility for it.
+AI doesn’t replace my thoughts or judgment. It doesn’t get credit for authorship. It doesn’t excuse mistakes or harm. Anything that ends up here is here because I carefully chose it and take responsibility for it.
 
 There are plenty of valid criticisms of AI—about labor, bias, energy use, power, authorship, all of it. Acknowledging those concerns doesn’t require pretending the tools don’t exist, and using the tools doesn’t require pretending the concerns aren’t real. For me, the only workable approach is limited, conscious use paired with transparency.
 
-That’s why I’m explicit about this.
-
-Tools shape thinking. They always have. Language does. Writing does. Software does. I’d rather make that visible than pretend it isn’t happening.
+Tools shape thinking, for better and/or for worse. They always have. Language does. Writing does. Software does. I’d rather make that visible than pretend it isn’t happening.
 
 If something I write is unclear, wrong, or harmful, that’s on me. The presence of AI doesn’t change that.
 
