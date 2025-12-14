@@ -4,7 +4,7 @@ title: "[archive: 2007] Seperating your personal and professional life online"
 summary: on identity, work, and boundaries online
 ---
 
-## Seperating your personal and professional life online
+## Original title: Seperating your personal and professional life online
 ***Published November 20, 2007***
 
 > **Present-day note (2025):**  

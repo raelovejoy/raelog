@@ -4,7 +4,7 @@ title: "[archive: 2007] Website security and privacy"
 summary: ...and ways to protect your online accounts
 ---
 
-## Stupid website security policies and ways to protect your passwords/online accounts
+## Original title: Stupid website security policies and ways to protect your passwords/online accounts
 ***Published November 13, 2007***
 
 > **Present-day note (2025):**  
