@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on AI, work, and participation"
+title: "On AI, work, and participation"
 ---
 
 I watched an interview with Tristan Harris recently and it’s been sitting with me.
