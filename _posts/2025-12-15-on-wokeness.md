@@ -23,10 +23,8 @@ Accessibility becomes a flashpoint because it does something fundamentally disru
 - it reduces gatekeeping  
 - it lowers dependence on authority  
 
-Accessibility says:
-"You don’t need permission to understand."
-
-That is profoundly anti-authoritarian.
+Accessibility says: "You don’t need permission to understand." 
+That is inherently anti-authoritarian.
 
 So help gets rebranded as:
 
@@ -37,8 +35,6 @@ So help gets rebranded as:
 "feminine"  
 "gay"  
 
-Not because it fails, but because it works.
-
 When people are helped, a few things happen that are dangerous from the perspective of power:
 
 - people become less dependent on authority  
@@ -47,9 +43,6 @@ When people are helped, a few things happen that are dangerous from the perspect
 - people start asking why things are structured the way they are  
 
 That threatens hierarchies built on dependency, confusion, shame, and scarcity.
-
-So the response is not to argue effectiveness.  
-It is to moralize help.
 
 Help becomes weakness.  
 Accessibility becomes indulgence.  
