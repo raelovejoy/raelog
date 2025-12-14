@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[archive: 2008] [Nokia Productions] Mobile-generated content"
-summary: on identity, work, and boundaries online
+summary: mobile-generated media and creativity
 ---
 
 ## Original title: [Nokia Productions] Mobile-generated content
