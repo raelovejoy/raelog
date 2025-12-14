@@ -5,7 +5,7 @@ summary: ...And ways to protect your online accounts
 ---
 
 ## Stupid website security policies and ways to protect your passwords/online accounts
-Published November 13, 2007
+***Published November 13, 2007***
 
 Ok, so this has been bugging the hell out of me lately: how some websites and services have really unsatisfactory [password security policies](https://web.archive.org/web/20080116194447/http://en.wikipedia.org/wiki/Password_policy).
 
