@@ -9,7 +9,7 @@ description: "What Raelog is, what lives here, and how it works."
 
 <p>
   <strong>Raelog</strong> is a personal field log maintained by
-  <a href="https://raelovejoy.com">Rae Lovejoy</a>.
+  <a href="https://raelovejoy.com">Rae Lovejoy</a><a href="https://raearea.net/name.txt">*</a>.
 </p>
 
 <h2><strong>What this is</strong></h2>
