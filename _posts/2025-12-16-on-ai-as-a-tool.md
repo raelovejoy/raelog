@@ -38,7 +38,7 @@ It helps with:
 
 In this sense, it functions as scaffolding rather than automation. Similar to calendars, reminders, spellcheck, or other assistive tools, it helps me stay engaged with my own thinking instead of getting stuck before it can take shape. Not that I have a problem with writer's block. On the contrary, the only 'blockage' I have is the overwhelm of words I press into my keyboard.
 
-This is not about productivity for its own sake. It's about access—being able to participate, reflect, and create without being derailed by cognitive overload.
+This is not about productivity for its own sake, but being able to participate, reflect, and create without being derailed by cognitive overload.
 
 ## What AI is not for me
 
