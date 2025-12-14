@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On AI as a tool"
+title: "AI as a tool"
 summary: AI as 'cognitive scaffolding,' not replacement
 ---
 
