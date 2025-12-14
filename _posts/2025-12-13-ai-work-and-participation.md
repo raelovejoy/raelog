@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On AI, work, and participation"
+title: "AI, work, and participation"
 summary: opting out, labor pressure, and mediated agency
 ---
 

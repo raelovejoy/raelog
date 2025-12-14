@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On universal coherence"
+title: "Universal coherence"
 summary: a working lens for patterns across systems
 ---
 
