@@ -8,7 +8,7 @@ summary: on identity, work, and boundaries online
 ***Published June 14, 2008***
 
 > **Present-day note (2025):**  
-> This post was originally written in 2007 and is preserved largely as-is, as a snapshot of how I was thinking at the time. Some details are dated; others still feel relevant. If I were writing it today, I’d frame parts of it differently, but I’m leaving the original voice intact.
+> This post was originally written in 2008 and is preserved largely as-is, as a snapshot of how I was thinking at the time. Some details are dated; others still feel relevant. If I were writing it today, I’d frame parts of it differently, but I’m leaving the original voice intact.
 
 Ten years ago, the idea of creating high-quality content generated from your mobile device might have seemed completely unfeasible. Current advances in technology, and the many different ways we are now able to produce content on the fly, have made this idea very feasible.
 
