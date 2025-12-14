@@ -1,6 +1,6 @@
 ---
-layout: default
-title: On "wokeness"
+layout: post
+title: "On wokeness"
 summary: why helping people threatens entrenched power
 ---
 
