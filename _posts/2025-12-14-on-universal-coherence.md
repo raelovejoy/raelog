@@ -3,8 +3,6 @@ layout: post
 title: "On universal coherence"
 ---
 
-<span class="dim">raelog://on-universal-coherence</span>
-
 I will often use the phrase **"universal coherence"** across this site, and outside of it, so I might as well introduce it.
 
 "Universal coherence" is not a belief system, ideology, or finished theory. It is a **working model** I use to reason about systems—technical, social, biological, and cognitive—without reducing everything to productivity, optimization, or control.
