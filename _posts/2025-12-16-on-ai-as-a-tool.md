@@ -28,7 +28,7 @@ I’d rather treat AI as software I work with than a service I defer to. Explori
 
 Like any tool or technology, AI requires responsibility, understanding, and boundaries. It doesn’t come with those baked in. Using it well means paying attention to where it helps, where it distorts, and where it shouldn’t be used at all.
 
-It also matters who controls these systems. Much of contemporary AI reflects the priorities of corporations and governments, and that influence isn’t subtle. Still, I don’t think that makes the technology itself worthless. Longer term, I’m interested in paths that move AI toward something closer to a commons—less centralized, less extractive, and more accountable to the people actually using it.
+It also matters who controls these systems. Much of contemporary AI reflects the priorities of corporations and governments, and that influence isn’t subtle. Still, I don’t think that makes the technology itself worthless. Longer term, I’m [interested](https://github.com/dev11systems/liberated-intelligence) in paths that move AI toward something closer to a commons—less centralized, less extractive, and more accountable to the people actually using it.
 
 That’s a larger conversation for another day, but it’s part of how I think about local models, self-hosting, and staying close to the tools I rely on.
 
