@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Freedom Illiteracy"
+summary: mistaking compliance for freedom
 ---
 
 I feel like most people have never experienced actual "freedom."

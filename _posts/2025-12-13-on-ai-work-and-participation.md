@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On AI, work, and participation"
+summary: opting out, labor pressure, and mediated agency
 ---
 
 I watched [an interview with Tristan Harris](https://www.youtube.com/watch?v=x4ZY25OU4Ys) recently and (despite the click-baity title) it’s been sitting with me.

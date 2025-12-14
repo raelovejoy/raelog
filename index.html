@@ -9,7 +9,6 @@ title:
   <p class="sub">Field notes. Observations. Unfinished thoughts.</p>
 </header>
 
-
 <section class="list">
   <ul>
     {% for post in site.posts %}
@@ -17,6 +16,11 @@ title:
         <a href="{{ post.url | relative_url }}">
           raelog://{{ post.slug }}
         </a>
+        {% if post.summary %}
+          <div class="dim post-summary">
+            {{ post.summary }}
+          </div>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
