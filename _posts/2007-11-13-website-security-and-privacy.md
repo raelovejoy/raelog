@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Website security and privacy"
-summary: ...And ways to protect your online accounts
+summary: ...and ways to protect your online accounts
 ---
 
 ## Stupid website security policies and ways to protect your passwords/online accounts
