@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seperating your personal and professional life online"
+title: "[archive: 2007] Seperating your personal and professional life online"
 summary: on identity, work, and boundaries online
 ---
 
