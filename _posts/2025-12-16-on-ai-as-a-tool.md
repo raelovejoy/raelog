@@ -40,6 +40,22 @@ In this sense, it functions as scaffolding rather than automation. Similar to ca
 
 This is not about productivity for its own sake, but being able to participate, reflect, and create without being derailed by cognitive overload.
 
+## Local AI and self-hosted systems
+
+I am also increasingly interested in local AI and locally hosted systems over the long term.
+
+Part of this is practical—privacy, reliability, and the ability to understand and control the tools I rely on. Part of it is philosophical. I am wary of over-centralized infrastructure, opaque systems, and dependencies that quietly shape behavior without consent.
+
+Exploring local models and self-hosted setups is a way of:
+- Reducing reliance on centralized platforms
+- Keeping sensitive data closer to where it is created
+- Better understanding the constraints and tradeoffs of these systems
+- Treating AI as software I work with, not a service I defer to
+
+This interest does not change the boundaries described elsewhere in this post. Whether a system is local or remote, the same principles apply: I remain responsible for the output, the intent, and the consequences.
+
+This is a direction I am actively learning toward, not a claim of having solved it.
+
 ## What AI is not for me
 
 Some boundaries matter, especially now.
