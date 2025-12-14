@@ -3,7 +3,7 @@ layout: post
 title: "On AI, work, and participation"
 ---
 
-I watched an interview with Tristan Harris recently and it’s been sitting with me.
+I watched [an interview with Tristan Harris](https://www.youtube.com/watch?v=x4ZY25OU4Ys) recently and it’s been sitting with me.
 
 A lot of it wasn't exactly new, but hearing it laid out plainly made something feel more concrete. The speed at which AI is replacing cognitive labor seems faster than most people are prepared for, especially compared to how slowly our social and political systems adapt.
 
