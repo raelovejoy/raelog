@@ -9,15 +9,21 @@ title:
   <p class="sub">Field notes. Observations. Unfinished thoughts.</p>
 </header>
 
-
 <section class="list">
   <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">
-          raelog://{{ post.slug }}
-        </a>
-      </li>
+    {% assign home_posts = site.posts | reject: "slug", nil %}
+    {% for post in home_posts limit:15 %}
+      {% unless post.slug contains "archive-" %}
+        <li>
+          <a href="{{ post.url | relative_url }}">
+            raelog://{{ post.slug }}
+          </a>
+        </li>
+      {% endunless %}
     {% endfor %}
   </ul>
+
+  <p class="dim">
+    <a href="{{ '/archive/' | relative_url }}">view full archive →</a>
+  </p>
 </section>
