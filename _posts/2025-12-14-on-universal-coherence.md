@@ -45,8 +45,8 @@ Coherence gives me a way to talk about:
 
 Universal coherence is explored more formally in a separate project, which lives outside Raelog:
 
-- Project home: https://dev11.systems/ucf  
-- Repository: https://github.com/dev11systems/ucf
+- Project home: [https://dev11.systems/ucf](https://dev11.systems/ucf)  
+- Repository: [https://github.com/dev11systems/ucf](https://github.com/dev11systems/ucf)
 
 Raelog is not documentation for that project. Raelog is where I **apply the lens informally** while thinking in public.
 
