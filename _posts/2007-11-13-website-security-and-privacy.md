@@ -7,6 +7,9 @@ summary: ...and ways to protect your online accounts
 ## Stupid website security policies and ways to protect your passwords/online accounts
 ***Published November 13, 2007***
 
+> **Present-day note (2025):**  
+> This post was originally written in 2007 and is preserved largely as-is, as a snapshot of how I was thinking at the time. Some details are dated; others still feel relevant. If I were writing it today, I’d frame parts of it differently, but I’m leaving the original voice intact.
+
 Ok, so this has been bugging the hell out of me lately: how some websites and services have really unsatisfactory [password security policies](https://web.archive.org/web/20080116194447/http://en.wikipedia.org/wiki/Password_policy).
 
 For example, [Plaxo](https://web.archive.org/web/20080116194447/http://plaxo.com/), which only allows you to create a [password](https://web.archive.org/web/20080116194447/http://en.wikipedia.org/wiki/Password) that is between 6 and 10 characters long. Um, hello??!! That is bloody ridiculous! I'm sorry Plaxo, but I just don't feel safe storing my whole freggin' address book on your site with a password policy like that. Why bother?

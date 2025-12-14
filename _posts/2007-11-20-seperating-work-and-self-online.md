@@ -7,6 +7,9 @@ summary: on identity, work, and boundaries online
 ## Seperating your personal and professional life online
 ***Published November 20, 2007***
 
+> **Present-day note (2025):**  
+> This post was originally written in 2007 and is preserved largely as-is, as a snapshot of how I was thinking at the time. Some details are dated; others still feel relevant. If I were writing it today, I’d frame parts of it differently, but I’m leaving the original voice intact.
+
 When employers research job applicants on the internet, what actually justifies a reason for them to [judge](https://web.archive.org/web/20071220101329/http://www.imakenews.com/supportingcast/e_article000810965.cfm) you based on what they see alone?
 
 For example, a prospective employer might look at your personal profile on [social networking](https://web.archive.org/web/20071220101329/http://en.wikipedia.org/wiki/Social_networking) sites like [Myspace](https://web.archive.org/web/20071220101329/http://myspace.com/), [Facebook](https://web.archive.org/web/20071220101329/http://facebook.com/), [Twitter](https://web.archive.org/web/20071220101329/http://twitter.com/), or [Pownce](https://web.archive.org/web/20071220101329/http://pownce.com/). These sites might contain things from your [personal life](https://web.archive.org/web/20071220101329/http://en.wikipedia.org/wiki/Personal_life) that have nothing whatsoever to do with your professional life. Things that you post online are not necessarily relevant to your professional life.
