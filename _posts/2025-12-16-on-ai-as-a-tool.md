@@ -26,6 +26,12 @@ I’m also increasingly interested in local AI and self-hosted systems, longer t
 
 I’d rather treat AI as software I work with than a service I defer to. Exploring local models is a way of learning where the limits actually are, and what tradeoffs I’m making, instead of abstracting all of that away behind an API.
 
+Like any tool or technology, AI requires responsibility, understanding, and boundaries. It doesn’t come with those baked in. Using it well means paying attention to where it helps, where it distorts, and where it shouldn’t be used at all.
+
+It also matters who controls these systems. Much of contemporary AI reflects the priorities of corporations and governments, and that influence isn’t subtle. Still, I don’t think that makes the technology itself worthless. Longer term, I’m interested in paths that move AI toward something closer to a commons—less centralized, less extractive, and more accountable to the people actually using it.
+
+That’s a larger conversation for another day, but it’s part of how I think about local models, self-hosting, and staying close to the tools I rely on.
+
 None of that changes the basic boundaries.
 
 AI doesn’t replace my thoughts or judgment. It doesn’t get credit for authorship. It doesn’t excuse mistakes or harm. Anything that ends up here is here because I carefully chose it and take responsibility for it.
