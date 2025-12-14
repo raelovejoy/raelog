@@ -21,6 +21,11 @@ permalink: /archive/
           <a href="{{ post.url | relative_url }}">
             {{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}
           </a>
+          {% if post.summary %}
+            <div class="dim post-summary">
+              {{ post.summary }}
+            </div>
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
