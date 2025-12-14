@@ -2,22 +2,26 @@
 layout: null
 permalink: /feed.xml
 ---
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>raelog://posts/{{ post.date | date: "%Y-%m-%d" }}/{{ post.slug }}</title>
+    <title>raelog://feed</title>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <description>{{ site.description | xml_escape }}</description>
-    <language>en</language>
+    <description>{{ site.description }}</description>
+    <language>en-us</language>
 
-    {% for post in site.posts limit: 20 %}
+    {% for post in site.posts %}
     <item>
-      <title>{{ post.title | xml_escape }}</title>
+      <title>
+        raelog://posts/{{ post.date | date: "%Y-%m-%d" }}/{{ post.slug }}
+      </title>
+
       <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
-      <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
       <description><![CDATA[
-        {{ post.content | strip_html | truncate: 300 }}
+{{ post.content }}
       ]]></description>
     </item>
     {% endfor %}
