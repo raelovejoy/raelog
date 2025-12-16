@@ -13,8 +13,8 @@ Growing up, what I felt most often wasn't anger so much as frustration. Frustrat
 
 It's still hard for me to stay mad in general. Even with all the trauma we collect over time. Even with anxiety, or whatever social friction becomes of me. Anger tends to burn off quickly and leave something else behind — usually empathy, curiosity, or at least a need to understand what went wrong.
 
-Empathy isn't weakness. It's orientation.
-And I'm oriented toward connection, coherence, and repair.
+And empathy isn't weakness. It's orientation.
+And I'm most oriented toward connection, coherence, and repair.
 
 That doesn't mean passivity. It doesn't mean tolerating harm. And it doesn't mean confusing nonviolence with submission. I believe in [self-defense](https://libcom.org/article/nonviolent-stuffll-get-you-killed-charles-cobb) — personally and collectively — and in drawing clear boundaries where necessary. Nonviolence, to me, isn't about pretending conflict doesn't exist, but about refusing to let violence, domination, or cynicism become the organizing logic of how we relate to one another.
 
