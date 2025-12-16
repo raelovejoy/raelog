@@ -14,6 +14,7 @@ description: "A small map of places worth visiting."
 
 <h2>Me, elsewhere</h2>
 <ul>
+  <li><a href="https://github.com/raelovejoy">github</a></li>
   <li><a rel="me" href="https://kolektiva.social/@rae">mastodon</a></li>
   <li><a rel="me" href="https://pixelfed.social/@raelovejoy">pixelfed</a></li>
   <li><a href="https://raelovejoy.com">raelovejoy.com</a></li>
