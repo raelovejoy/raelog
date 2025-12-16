@@ -5,17 +5,6 @@ summary: refusing cynicism while naming harm and defending care
 date: 2025-12-18
 ---
 
----
-layout: post
-title: People aren't the problem
----
-
----
-layout: post
-title: Patterns, Not People
-description: On frustration, boundaries, and refusing cynicism without denying harm.
----
-
 I don't actually hate people, even when it feels like I do sometimes.
 
 What I "hate" are patterns of harm, cruelty, and domination — the ways systems distort people until they act against themselves and each other. When I pull back socially, or feel irritated, or overwhelmed, it's rarely about individuals. For me, it's about overload: too many signals, too much noise. Fear of being misunderstood. A lack of safety. A lack of reciprocity.
