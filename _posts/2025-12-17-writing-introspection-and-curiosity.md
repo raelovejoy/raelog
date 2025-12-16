@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On writing, introspection, and curiosity"
+title: "Writing, introspection, and curiosity"
 summary: writing for survival and sensemaking
 date: 2025-12-17
 ---
