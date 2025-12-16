@@ -51,8 +51,4 @@ Anyone can write now. Anyone can take a photograph. In the same way that digital
 
 The playing field levels. What differentiates the work is no longer how difficult it was to produce, but whether there was something worth saying in the first place.
 
-Tools shape thinking, for better and/or for worse. They always have. Language does. Writing does. Software does. I’d rather make that visible than pretend it isn’t happening.
-
-If something I write is unclear, wrong, or harmful, that’s on me. The presence of AI doesn’t change that.
-
-This is how I’m using it right now. That may change. If it does, I’ll say so.
+Tools shape thinking, for better and/or for worse. They always have. Language does. Writing does. Software does. What matters is how deliberately we use them, and what we choose to think about in the first place.
