@@ -128,20 +128,20 @@ li::before {
 
 .post-item {
   display: flex;
-  flex-wrap: wrap;
+  align-items: baseline;
   gap: 0.35rem;
+  flex-wrap: nowrap;
 }
 
 .post-title {
-  border-bottom: 1px dotted var(--border);
-}
-
-.post-title:hover {
-  border-bottom-color: var(--borderHover);
+  flex: 0 0 auto;
 }
 
 .post-summary {
-  margin-left: 0.35rem;
-  opacity: 0.45;
-  line-height: 1.5;
+  flex: 1 1 auto;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
+
