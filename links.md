@@ -26,15 +26,12 @@ description: "A small map of places worth visiting."
 <p class="dim">Things I like. People I learn from. Tools I respect. Not necessarily endorsements—just bookmarks with context.</p>
 
 <ul>
-  <li class="dim">TODO: add links + one-line notes.</li>
+  <li class="dim">[placeholder]</li>
 </ul>
 
 <h2>Places</h2>
 <p class="dim">Places on the internet that still feel alive. Independent sites, small labs, tools, zines, and archives worth returning to.</p>
 
 <ul>
-  <li class="dim">TODO: add links + one-line notes.</li>
+  <li class="dim">[placeholder]</li>
 </ul>
-
-<h2>Web-ring-ish</h2>
-<p class="dim">If you find this page and think we should link up, reach out on Mastodon.</p>
