@@ -28,4 +28,4 @@ Everything is inspiring, if you look closely enough.
 Even the broken parts.
 Especially the broken parts.
 
-Because I see potential in everything.
+Because I see potential in [everything](https://tochangeeverything.com).
