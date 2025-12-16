@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On writing, introspection, and curiosity"
-summary: writing as a survival tool and making sense of the world
+summary: writing for survival and sensemaking
 date: 2025-12-17
 ---
 
