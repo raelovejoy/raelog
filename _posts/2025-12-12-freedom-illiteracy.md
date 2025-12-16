@@ -2,6 +2,7 @@
 layout: post
 title: "Freedom Illiteracy"
 summary: mistaking compliance for freedom
+date: 2025-12-12
 ---
 
 I feel like most people have never experienced actual "freedom."

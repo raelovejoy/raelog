@@ -2,6 +2,7 @@
 layout: post
 title: "[archive: 2016] Connected but Disconnected"
 summary: an undergraduate essay on inequality, ecology, and ideology
+date: 2016-12-21
 ---
 
 ## Original title: Connected but Disconnected: Understanding our Relationships to and Divisions from Nature in an Era of Social Inequality and Environmental Exploitation

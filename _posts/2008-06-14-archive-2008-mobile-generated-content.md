@@ -2,6 +2,7 @@
 layout: post
 title: "[archive: 2008] [Nokia Productions] Mobile-generated content"
 summary: mobile-generated media and creativity
+date: 2008-06-14
 ---
 
 ## Original title: [Nokia Productions] Mobile-generated content

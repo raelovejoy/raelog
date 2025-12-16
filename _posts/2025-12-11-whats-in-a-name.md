@@ -2,6 +2,7 @@
 layout: post
 title: "What's in a name?"
 summary: identity, naming, and intentional distance
+date: 2025-12-11
 ---
 
 "**Rae Lovejoy**" isn't my legal name, so let me tell you a little bit about why I go by "Rae" in my daily life, and "Rae Lovejoy" online. This is intentional, and for more than one reason.

@@ -2,6 +2,7 @@
 layout: post
 title: "AI as a tool"
 summary: AI as 'cognitive scaffolding,' not replacement
+date: 2025-12-16
 ---
 
 AI is a loaded topic right now. I’m aware of that. I still use it, and because I write a lot, I don’t want that to be vague or implied or quietly hidden in the background.

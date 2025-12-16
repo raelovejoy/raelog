@@ -2,6 +2,7 @@
 layout: post
 title: "Universal coherence"
 summary: a working lens for patterns across systems
+date: 2025-12-14
 ---
 
 I will often use the phrase **"universal coherence"** across this site, and outside of it, so I might as well introduce it.

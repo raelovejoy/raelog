@@ -2,6 +2,7 @@
 layout: post
 title: "[archive: 2008] On Life, the World, and Society"
 summary: a reflective early essay on humanity, nature, social conditioning, and collective responsibility
+date: 2008-02-14
 ---
 
 ## Original title: On Life, the World, and Society

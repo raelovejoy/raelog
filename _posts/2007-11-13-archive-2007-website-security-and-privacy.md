@@ -2,6 +2,7 @@
 layout: post
 title: "[archive: 2007] Website security and privacy"
 summary: ...and ways to protect your online accounts
+date: 2007-11-13
 ---
 
 ## Original title: Stupid website security policies and ways to protect your passwords/online accounts
