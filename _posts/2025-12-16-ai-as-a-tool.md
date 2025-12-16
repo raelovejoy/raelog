@@ -43,6 +43,14 @@ AI doesn’t replace my thoughts or judgment. It doesn’t get credit for author
 
 There are plenty of valid criticisms of AI—about labor, bias, energy use, power, authorship, all of it. Acknowledging those concerns doesn’t require pretending the tools don’t exist, and using the tools doesn’t require pretending the concerns aren’t real. For me, the only workable approach is limited, conscious use paired with transparency.
 
+I imagine a future where creativity is based not only on one’s ability to master tools—AI included—to accomplish specific tasks like communicating ideas, but also on the ability to think, remain curious, and stay critical.
+
+Creativity has never been just about technical skill, even if it sometimes looked that way. Writing, photography, music—each went through a phase where mastery of the medium was the primary gate. But as tools become more accessible, that gate dissolves.
+
+Anyone can write now. Anyone can take a photograph. In the same way that digital cameras and smartphones expanded photography, AI expands writing. What once required more effort is no longer scarce, and when something goes mainstream, the world tends to saturate with sameness.
+
+The playing field levels. What differentiates the work is no longer how difficult it was to produce, but whether there was something worth saying in the first place.
+
 Tools shape thinking, for better and/or for worse. They always have. Language does. Writing does. Software does. I’d rather make that visible than pretend it isn’t happening.
 
 If something I write is unclear, wrong, or harmful, that’s on me. The presence of AI doesn’t change that.
