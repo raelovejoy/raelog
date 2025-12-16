@@ -19,7 +19,7 @@ description: "A small map of places worth visiting."
   <li><a rel="me" href="https://pixelfed.social/@raelovejoy">pixelfed</a></li>
   <li><a href="https://raelovejoy.com">raelovejoy.com</a></li>
   <li><a href="https://raearea.net">raearea.net</a></li>
-  <li><a href="https://dev11.systems">dev11 systems</a></li>
+  <li><a href="https://dev11.systems">dev11://systems</a></li>
 </ul>
 
 <h2>People and projects</h2>
