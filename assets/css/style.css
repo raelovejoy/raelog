@@ -126,7 +126,7 @@ li::before {
    Home post list styling
    --------------------------- */
 
-/* Desktop / tablet */
+/* Desktop / tablet: single-line summaries with ellipsis */
 .post-item {
   display: flex;
   align-items: baseline;
@@ -141,11 +141,11 @@ li::before {
 .post-summary {
   flex: 1 1 auto;
   min-width: 0;
-  opacity: 0.45;
-  line-height: 1.5;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  opacity: 0.45;
+  line-height: 1.5;
 }
 
 /* Add separator dash on non-mobile */
