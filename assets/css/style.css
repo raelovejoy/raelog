@@ -126,6 +126,7 @@ li::before {
    Home post list styling
    --------------------------- */
 
+/* Desktop/tablet: single-line summaries with ellipsis */
 .post-item {
   display: flex;
   align-items: baseline;
@@ -143,5 +144,19 @@ li::before {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  opacity: 0.45;
+  line-height: 1.5;
 }
 
+/* Mobile: let summaries wrap instead of ellipsis */
+@media (max-width: 600px) {
+  .post-item {
+    flex-wrap: wrap;
+  }
+
+  .post-summary {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
+}
