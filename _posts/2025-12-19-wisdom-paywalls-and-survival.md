@@ -5,7 +5,7 @@ summary: the quiet costs of making meaning transactional
 date: 2025-12-19
 ---
 
-Sometimes I wish wisdom were more accessible.
+I wish wisdom was more accessible.
 
 A lot of art *is* wisdom. Paintings, poems, films, books, music—these are all ways we exchange insight, experience, and understanding across time and between people. They are how we learn what it means to be human without having to live every life ourselves. 
 
