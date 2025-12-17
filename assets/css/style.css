@@ -126,7 +126,7 @@ li::before {
    Home post list styling
    --------------------------- */
 
-/* Desktop/tablet: single-line summaries with ellipsis */
+/* Desktop / tablet */
 .post-item {
   display: flex;
   align-items: baseline;
@@ -141,14 +141,19 @@ li::before {
 .post-summary {
   flex: 1 1 auto;
   min-width: 0;
+  opacity: 0.45;
+  line-height: 1.5;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  opacity: 0.45;
-  line-height: 1.5;
 }
 
-/* Mobile: let summaries wrap instead of ellipsis */
+/* Add separator dash on non-mobile */
+.post-summary::before {
+  content: "— ";
+}
+
+/* Mobile: wrap cleanly, no dash */
 @media (max-width: 600px) {
   .post-item {
     flex-wrap: wrap;
@@ -158,5 +163,9 @@ li::before {
     white-space: normal;
     overflow: visible;
     text-overflow: clip;
+  }
+
+  .post-summary::before {
+    content: "";
   }
 }
