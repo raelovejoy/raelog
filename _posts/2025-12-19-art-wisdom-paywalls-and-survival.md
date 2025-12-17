@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wisdom, paywalls, and survival"
+title: "Art, wisdom, paywalls, and survival"
 summary: the quiet costs of making meaning transactional
 date: 2025-12-19
 ---
