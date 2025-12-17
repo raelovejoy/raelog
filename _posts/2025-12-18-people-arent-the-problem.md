@@ -18,6 +18,8 @@ And I'm most oriented toward connection, coherence, and repair.
 
 That doesn't mean passivity. It doesn't mean tolerating harm. And it doesn't mean confusing nonviolence with submission. I believe in [self-defense](https://libcom.org/article/nonviolent-stuffll-get-you-killed-charles-cobb) — personally and collectively — and in drawing clear boundaries where necessary. Nonviolence, to me, isn't about pretending conflict doesn't exist, but about refusing to let violence, domination, or cynicism become the organizing logic of how we relate to one another.
 
+I'm also not interested in revenge. I understand the impulse, but revenge doesn't repair anything. It hardens people, escalates harm, and locks everyone into the same logic that caused the damage in the first place. Accountability matters. Consequences matter. But I'm far more interested in restoration than punishment — in stopping harm, repairing what can be repaired, and preventing the same patterns from repeating.
+
 So I don't think people are the problem. I think systems that reward harm, extraction, and hierarchy are. Cynicism feels like a trap — understandable, but ultimately useful to the very structures that benefit from people giving up on each other. Systems-level anti-cynicism isn't denial; it's pattern recognition. It's seeking alignment and fewer unnecessary fractures. It's noticing that even in broken conditions, people keep reaching for care, cooperation, and meaning.
 
 Despite everything going on, I don't feel pessimistic or cynical about the world. I see potential everywhere — even if I'm never around to see where it leads. Future generations matter. Long arcs matter. Systems change slowly, but they do change.
