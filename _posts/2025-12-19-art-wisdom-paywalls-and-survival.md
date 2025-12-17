@@ -13,7 +13,7 @@ But that wisdom does not reach everyone.
 
 Sometimes the barrier is a literal paywall. Sometimes it is time, energy, language, education, or sheer exhaustion. And while paywalls are the most obvious obstruction, they are not the root problem.
 
-I do not have an issue with artists being paid. Artists should be paid. The problem is *how* they are paid, and what their survival is made to depend on.
+I do not have an issue with artists being paid. Artists should be paid. The problem is *how*  (and *how much*) they are paid, and what their survival is made to depend on.
 
 When access to basic human needs—food, shelter, healthcare, stability—depends on monetizing one’s creativity, insight, or inner life, something breaks. People are forced to sell the deepest parts of themselves just to exist. Wisdom becomes a product. Art becomes inventory. Expression becomes a transaction.
 
