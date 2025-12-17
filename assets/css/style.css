@@ -160,6 +160,7 @@ li::before {
   }
 
   .post-summary {
+    flex: 1 1 100%;
     white-space: normal;
     overflow: visible;
     text-overflow: clip;
