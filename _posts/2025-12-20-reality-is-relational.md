@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reality is relational (and anarchist AF)"
-summary: No rulers, only relationships
+summary: no rulers, only relationships
 date: 2025-12-20
 ---
 
