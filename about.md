@@ -8,15 +8,15 @@ description: "What Raelog is, what lives here, and how it works."
 <span class="dim">raelog://about</span>
 
 <p>
-  <strong>Raelog</strong> is a personal field log maintained by
+  <strong>Raelog</strong> is a personal field 'log' maintained by
   <a href="https://raelovejoy.com">Rae Lovejoy</a><a href="https://raearea.net/name.txt">*</a>.
 </p>
 
 <h2><strong>What this is</strong></h2>
 <p>
-  It isn't a 'blog' in the "normal" sense... more like a place to write things down
+  It isn't a 'blog' in the "normal" sense... more like a place to jot things down
   so they don’t disappear—observations, half-formed ideas, project notes,
-  questions, and patterns I'm noticing over time. A virtual field log.
+  questions, and patterns I'm noticing over time. A virtual 'field' log.
 </p>
 
 <h2><strong>What you’ll find</strong></h2>
@@ -30,7 +30,7 @@ description: "What Raelog is, what lives here, and how it works."
 <h2><strong>How this works</strong></h2>
 <ul>
   <li>entries are chronological</li>
-  <li>posts are written as they are, not polished later</li>
+  <li>posts are written and occasionally polished ('living' posts)</li>
   <li>conclusions are optional</li>
   <li>contradictions are allowed</li>
   <li>this is mostly for future-me, and maybe some people I know, but it's public</li>
