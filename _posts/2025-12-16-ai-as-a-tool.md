@@ -9,15 +9,15 @@ AI is a loaded topic right now. I’m aware of that. I still use it, and because
 
 This isn’t a defense of AI, but rather me being explicit about how it fits into my process.
 
-I used to think the most important part of writing was the words themselves. Over time, I realized that what actually matters is communicating a thought clearly and accurately—getting it from my head into someone else's with as little distortion as possible. Words are just the medium. Clarity is the point.
+I used to think the most important part of writing was the words themselves. Over time, I realized that what actually matters is communicating a thought clearly and accurately—getting it from my head into someone else’s with as little distortion as possible. Words are just the medium. Clarity is the point.
 
-From that perspective, using tools to reduce friction in expression isn't a compromise. It's a practical response to the limits of language and cognition.
+From that perspective, using tools to reduce friction in expression isn’t a compromise. It’s a practical response to the limits of language and cognition.
 
 AI is a tool. Not an author, not an authority, not a friend, not a stand-in for judgment. More like a whiteboard that talks back, or a place to dump too many thoughts at once and see what survives.
 
 I mostly use it to clarify things that already exist in my head but haven’t landed cleanly yet. To test an idea from a few angles. To reorganize notes that have grown faster than I can hold them. To make writing clearer, more accessible, and less tangled than it would otherwise be.
 
-Clarity is the point. I write constantly, and the goal isn't speed or volume—it's aligning what I mean with what actually arrives.
+Clarity is the point. I write constantly, and the goal isn’t speed or volume—it’s aligning what I mean with what actually arrives.
 
 That’s also where accessibility comes in.
 
