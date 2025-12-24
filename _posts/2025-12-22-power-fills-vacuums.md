@@ -7,7 +7,7 @@ date: 2025-12-22
 
 There's a common idea that stepping away from politics is a way to remain neutral, as if opting out places you somewhere outside the system, untouched by it. I understand the impulse. Politics is goddamn exhausting, loud, and ugly, and wanting distance can feel like the only sane response.
 
-But politics doesn't pause when you stop engaging. Outcomes continue, decisions are still made, and power moves around you whether or not you are watching.
+But politics doesn't pause when you stop engaging. Outcomes continue, decisions are still made, and power moves around you whether or not you are watching. Everything is affected by politics, for better or for worse.
 
 Not participating in politics isn't the absence of participation, it's participation without agency.
 
