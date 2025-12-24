@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power fills vacuums"
-description: disengagement is never politically neutral
+summary: disengagement is never politically neutral
 date: 2025-12-22
 ---
 
