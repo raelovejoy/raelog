@@ -5,7 +5,9 @@ summary: the machinery underneath everyday life
 date: 2026-01-10
 ---
 
-I keep thinking about how most of what we call 'power' today does not operate through obvious villains or conscious cruelty, but by shaping people in advance. Not just shaping behavior, but shaping the kinds of selves that feel 'normal,' 'acceptable,' and 'realistic.' That shaping happens so early and so thoroughly that by the time we start talking about 'choice' or 'freedom,' most of the terrain (and our future) has already been decided.
+I keep thinking about how most of what we call 'power' today does not operate through obvious villains (at least in the grand 'scheme' of things) or conscious cruelty (mostly), but by shaping people in advance. Not just shaping behavior, but shaping the kinds of selves that feel 'normal,' 'acceptable,' and 'realistic.' That shaping happens so early and so thoroughly that by the time we start talking about 'choice' or 'freedom,' most of the terrain (and our future) has already been decided. 
+
+This is the everyday mechanics of actually existing power.
 
 It is tempting to frame everything in terms of 'bad actors' or 'evil intent.' Sometimes that is true... I mean it's 2026 for fucks sake. But it misses something deeper and more durable. That modern systems reproduce themselves by producing people who can live inside them, often without fully realizing it. That includes those at the top. Especially the 'top.' Power does not sit outside the system directing it from above. Power is one of the system’s outputs.
 
