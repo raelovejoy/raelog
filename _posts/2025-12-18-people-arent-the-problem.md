@@ -22,7 +22,7 @@ I'm also not interested in revenge. I understand the impulse, but revenge doesn'
 
 So I don't think people are the problem. I think systems that reward harm, extraction, and hierarchy are. Cynicism feels like a trap — understandable, but ultimately useful to the very structures that benefit from people giving up on each other. Systems-level anti-cynicism isn't denial; it's pattern recognition. It's seeking alignment and fewer unnecessary fractures. It's noticing that even in broken conditions, people keep reaching for care, cooperation, and meaning.
 
-Despite everything going on, I don't feel pessimistic or cynical about the world. I see potential everywhere — even when one day I'm not around to see where it leads. Future generations matter. Long arcs matter. Systems change slowly, but they do change.
+Despite everything going on, I don't feel pessimistic or cynical about the world. I see potential everywhere — even when one day I won't be around to see where it leads. Future generations matter. Long arcs matter. Systems change slowly, but they do change.
 
 I have more reasons not to fear the world than to fear it.
 
