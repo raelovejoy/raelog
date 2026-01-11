@@ -23,7 +23,7 @@ There is also a persistent bait-and-switch around ideology. Authoritarian system
 
 When ideas begin to threaten legitimacy rather than policy details, the response tends to be preemptive. Dissenting thought is treated as a precursor to violence. Mutual aid becomes suspicious. Organizing becomes 'extremism.' Borders, property, and legality turn existence into obligation. This is less about safety than about preventing autonomous organization from becoming 'durable' or contagious.
 
-The same machinery keeps getting reused. First against Indigenous sovereignty. Then against enslaved people. Then against labor movements. Then against 'radicals.' (or their version of 'communists'). Then against anyone who questions 'legitimacy.' Then against anyone who cannot or will not keep up. Different targets, same logic... contain autonomy before it spreads.
+The same machinery keeps getting reused. First against Indigenous sovereignty. Then against enslaved people. Then against labor movements. Then against 'radicals.' Then against anyone who questions 'legitimacy.' Then against anyone who cannot or will not keep up. Different targets, same logic... contain autonomy before it spreads.
 
 I keep thinking about the film *The Matrix*, not literally, but structurally. Humans are not plugged into pods (per say [*looks at phone*]), but energy still gets converted into labor, data, attention, and consumption. Systems are optimized for extraction and stability, not flourishing. Exhaustion becomes normal. Alternatives become harder to imagine. When people talk about humans as batteries, what they are really pointing to is managed life.
 
