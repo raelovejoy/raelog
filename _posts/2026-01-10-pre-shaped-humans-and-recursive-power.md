@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Pre-shaped humans and recursive power"
+summary: the machinery underneath everyday life
+date: 2026-01-10
+---
+
+I keep thinking about how most of what we call power today does not operate through obvious villains or conscious cruelty, but by shaping people in advance. Not just shaping behavior, but shaping the kinds of selves that feel 'normal,' 'acceptable,' and 'realistic.' That shaping happens so early and so thoroughly that by the time we start talking about 'choice' or 'freedom,' most of the terrain (and our future) has already been decided.
+
+It is tempting to frame everything in terms of 'bad actors' or 'evil intent.' Sometimes that is true... I mean it's 2026 for fucks sake. But it misses something deeper and more durable. That modern systems reproduce themselves by producing people who can live inside them, often without fully realizing it. That includes those at the top. Especially the 'top.' Power does not sit outside the system directing it from above. Power is one of the system’s outputs.
+
+Choice arrives late, if ever. Long after family, class, and culture have already done their work. We inherit scripts before we inherit language. Expectations about 'success,' 'obedience,' 'productivity,' 'gender,' 'worth.' Education reinforces this quietly. It teaches us how to show up on time, how to compete, how to accept evaluation, how to treat hierarchy as normal and inevitable. History is often taught as a sequence of outcomes rather than a field of contested possibilities. By the time we are told we are "free," we are mostly choosing between options that already fit the shape we were given.
+
+The American Dream plays a specific role here. It functions less as a promise and more as a sorting mechanism. 'Success' becomes proof of 'virtue.' 'Failure' becomes evidence of personal deficiency. Structural constraints disappear from view. This makes inequality feel 'deserved' and resistance feel like resentment rather than critique. Media and advertising reinforce this by constantly manufacturing 'desire' and 'dissatisfaction,' keeping attention focused on individual aspiration instead of collective conditions.
+
+'Time' is where this becomes most concrete. The primary thing extracted from people is not money, but lived time. Most of life is divided into work time, which is governed by hierarchy and survival pressure, recovery time, which exists to keep people functional enough to return to work, and a thin layer of 'free' time that is fragmented, monetized, and usually drained of political or communal potential. 'Rights' and 'freedoms' mostly apply in that leftover space. The hours where power actually extracts value are largely exempt from democratic control.
+
+This is why I also keep thinking about psychological warfare, not as a metaphor but as infrastructure. Advertising links identity to consumption. Media narrows the range of what feels sayable or thinkable. Algorithms shape attention, reward outrage, and fragment shared understanding. Language itself becomes a tool. Certain ideas are framed as 'unrealistic,' 'extreme,' or 'dangerous' before they are ever engaged. The result is not constant fear, but self-regulation. People internalize the limits and enforce them on themselves and each other.
+
+There is also a persistent bait-and-switch around ideology. Authoritarian systems borrow the language of liberation. Market systems borrow the language of freedom. Everything else gets blurred together. Real critiques of hierarchy are blamed for authoritarian abuses they explicitly oppose. Structural questions get dismissed as 'naive' or 'dangerous.' The debate stays stuck at the level of labels while the underlying mechanisms of control and extraction remain untouched.
+
+When ideas begin to threaten legitimacy rather than policy details, the response tends to be preemptive. Dissenting thought is treated as a precursor to violence. Mutual aid becomes suspicious. Organizing becomes 'extremism.' Borders, property, and legality turn existence into obligation. This is less about safety than about preventing autonomous organization from becoming durable or contagious.
+
+The same machinery keeps getting reused. First against Indigenous sovereignty. Then against enslaved people. Then against labor movements. Then against 'radicals.' Then against anyone who questions legitimacy. Then against anyone who cannot or will not keep up. Different targets, same logic. Contain autonomy before it spreads.
+
+I keep thinking about the film *The Matrix*, not literally, but structurally. Humans are not plugged into pods, but energy still gets converted into labor, data, attention, and consumption. Systems are optimized for extraction and stability, not flourishing. Exhaustion becomes normal. Alternatives become harder to imagine. When people talk about humans as batteries, what they are really pointing to is managed life.
+
+The part that took me longest to accept is that even the people at the top are shaped by this, just obviously not affected the same. They are not outside the system. They are its most refined products. Elite institutions teach domination as 'responsibility' and control as 'competence.' Incentive structures reward extraction and penalize care. Competitive filters select for detachment and moral distance. Most people in these roles do not experience themselves as doing harm. They experience themselves as keeping things running. Harm persists anyway. Responsibility dissolves into process.
+
+None of this is 'human nature,' (which is not actually that way) so this feels similar to the idea of 'original sin,' but without the moral framing. More like an inherited structural fracture. A founding condition that gets normalized and reenacted across generations, regardless of individual intention. Like an echo, or wake, or wave, or ripple... throughout time. People step into roles that already contain the harm, and the system quietly (and [mostly] unknowingly) trains them to live with it.
+
+This is also why reform from the top keeps failing. Systems oriented around stability, growth, and competitiveness tend to absorb or neutralize anything that threatens those priorities. Empathy, refusal, slowness, and redistribution of power are filtered out over time. Reformers are reshaped faster than the system is.
+
+None of this means the system is total. If it were, it would be invisible. The fact that it has to work harder every generation, reuse the same strategies, intensify control, and police imagination is evidence of instability, not strength. Alienation, resistance, and critique keep resurfacing because something in us does not fully fit.
+
+I do not think the core problem is bad people or evil ideologies. Like I said before, [people aren't the problem](https://raelog.net/people-arent-the-problem). I think it is systems that require people to become less human in order to function. Seeing that does not solve it, but it does shift the ground. It moves the question away from blame and toward design, inheritance, and the conditions under which real participation might become possible again.
