@@ -36,8 +36,11 @@ What still fucks me up is how “connection” got rerouted, hijacked, stolen, s
 
 Capitalism couldn't cure loneliness, no, it just got packaged differently and sold back to everyone (again). Like it's a personal flaw instead of the obvious outcome of how things evolved (or more accurately, devolved).
 
-The internet used to make the world feel big because it revealed depth. Now it feels as big—or bigger—than the actual world because it’s all scale and no intimacy. It's big tech but small thinking. It's endless presence (and not *that* kind), but very little being met. It's infinite content, but shallow meaning. Everything got hollowed out.
 
-Of course, this internet, this "world wide web" is not a complete world. It’s definitely not as beautiful as the real one. But it’s dense enough to live inside, hollow enough to fall inside, and lonely enough inside, with enough time. Sometimes more lonely, because you’re surrounded but still feel invisible.
+Of course, the current internet is not a complete world (despite its name, "world wide web"). It’s definitely not as beautiful as the real world. But the internet is dense enough to live inside, hollow enough to fall inside, and lonely enough inside, with enough time. Sometimes more lonely, because you’re surrounded but still feel invisible.
 
-So yeah, I miss the wholesome wide web, not because of nostalgia, but grief. Sometimes I wonder: if you could reset the internet, which version would you choose? The sprawling, optimized, expensive, always-on city we live in now—or the smaller, messier thing it used to be, where getting lost felt like discovery instead of disappearance.
+The current internet feels as big—or bigger—than the actual world because it’s all scale and no intimacy. It's big tech but small thinking. It's endless presence (and not *that* kind), but very little being met. It's infinite content, but shallow meaning. Everything got hollowed out.
+
+So yeah, I miss the wholesome wide web, not because of nostalgia, but grief. The old internet used to make the world feel big because it revealed depth. 
+
+Sometimes I wonder: if you could reset the internet, which version would you choose? The sprawling, optimized, expensive, always-on city we live in now—or the smaller, messier thing it used to be, where getting lost felt like discovery instead of disappearance.
