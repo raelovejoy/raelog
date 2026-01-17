@@ -20,7 +20,7 @@ No, the old internet was more like… you could just see farther, and also withi
 
 [Many puns (and general wordplay) intended.]
 
-The internet was a town. It was Wikipedia, Google (when it was better), Twitter, Tumblr, Flickr, Blogger (why did everything end with an "r" lol), Digg, Pownce, FriendFeed, Facebook (when it wasn’t *as* shitty… jk, it was always shitty), Instagram before it got bought and turned into attention slop, YouTube before it became an ad delivery system, and so many smaller "[Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)" and '[small web](https://benhoyt.com/writings/the-small-web-is-beautiful/)' sites. 
+The internet was a town. It was Wikipedia, Google (when it was 'better'), Twitter, Tumblr, Flickr, Blogger (why did everything end with an "r" lol), Digg, Pownce, FriendFeed, Facebook (when it wasn’t *as* shitty… jk, it was always shitty), Instagram before it got bought and turned into attention slop, YouTube before it became an ad delivery system, and so many smaller "[Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)" and '[small web](https://benhoyt.com/writings/the-small-web-is-beautiful/)' sites. 
 
 You could feel the potential of it all. Inspiring. Genuine. Kind. Wholesome. Communal. Intimate. Messy. Meaningful. Open-source-y. Liberated. Even more so in the 80s and 90s, from what I’ve read. Well it all lasted for a while, anyway.
 
